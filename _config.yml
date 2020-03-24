@@ -25,8 +25,8 @@ description: Everything Monitoring focuses on monitoring Infrastructure and
  Icinga, ELK, Prometheuos, InfluxDB, Grafana etc
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: contramchaudhary
+github_username:  EvetrythingMonitoring
 
 # Build settings
 theme: minima
