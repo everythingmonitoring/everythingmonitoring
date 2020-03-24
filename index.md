@@ -1,8 +1,7 @@
 <html>
 <header>
-    
     </header>
-    <body>
+        <body>
     <h1>This is my github io site</h1>
-    </body>
+        </body>
 </html>
